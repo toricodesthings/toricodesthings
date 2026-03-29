@@ -4,21 +4,25 @@ i build stuff and yell at computers.
 
 ## building
 
-### Nullset
-<a href="https://nullset.app">
-  <img src="https://nullset.app/favicon.ico" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://nullset.app">
+        <img src="NULLSET_LOGO_URL" width="140" /><br/><br/>
+        <strong>Nullset</strong>
+      </a><br/>
+      <sub><a href="https://nullset.app">Live</a></sub>
+    </td>
 
-[Live](https://nullset.app)
-
----
-
-### Cadence
-<a href="https://dashboard.cadenceapp.cloud">
-  <img src="https://dashboard.cadenceapp.cloud/favicon.ico" />
-</a>
-
-[Live](https://dashboard.cadenceapp.cloud)
+    <td align="center" width="50%">
+      <a href="https://dashboard.cadenceapp.cloud">
+        <img src="CADENCE_LOGO_URL" width="140" /><br/><br/>
+        <strong>Cadence</strong>
+      </a><br/>
+      <sub><a href="https://dashboard.cadenceapp.cloud">Live</a></sub>
+    </td>
+  </tr>
+</table>
 
 ## website
 

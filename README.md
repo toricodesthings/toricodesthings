@@ -7,19 +7,16 @@ i build stuff and yell at computers.
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://nullset.app">
-        <img src="NULLSET_LOGO_URL" width="140" /><br/><br/>
-        <strong>Nullset</strong>
-      </a><br/>
-      <sub><a href="https://nullset.app">Live</a></sub>
+      <div style="height:140px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://nullset.app/favicon.ico" style="height:64px;" />
+      </div>
+      <a href="https://nullset.app"><strong>Nullset</strong></a>
     </td>
-
     <td align="center" width="50%">
-      <a href="https://dashboard.cadenceapp.cloud">
-        <img src="CADENCE_LOGO_URL" width="140" /><br/><br/>
-        <strong>Cadence</strong>
-      </a><br/>
-      <sub><a href="https://dashboard.cadenceapp.cloud">Live</a></sub>
+      <div style="height:140px; display:flex; align-items:center; justify-content:center;">
+        <img src="https://dashboard.cadenceapp.cloud/favicon.ico" style="height:64px;" />
+      </div>
+      <a href="https://dashboard.cadenceapp.cloud"><strong>Cadence</strong></a>
     </td>
   </tr>
 </table>

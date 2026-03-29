@@ -2,6 +2,28 @@
 
 i build stuff and yell at computers.
 
+## building
+
+### Nullset
+<a href="https://nullset.app">
+  <img src="https://nullset.app/favicon.ico" />
+</a>
+
+[Live](https://nullset.app)
+
+---
+
+### Cadence
+<a href="https://dashboard.cadenceapp.cloud">
+  <img src="https://dashboard.cadenceapp.cloud/favicon.ico" />
+</a>
+
+[Live](https://dashboard.cadenceapp.cloud)
+
+## website
+
+[![Visit Website](https://img.shields.io/badge/Website-toridoesthings.xyz-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://toridoesthings.xyz)
+
 ## tech
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
